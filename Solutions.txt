@@ -3,3 +3,9 @@
 2. pwd
 
 3. ls -1
+
+4. cat access.log
+
+5. tail -5 access.log
+
+6. touch take-the-command-line-challenge
