@@ -1,0 +1,5 @@
+1. echo "hello world"
+
+2. pwd
+
+3. ls -1
