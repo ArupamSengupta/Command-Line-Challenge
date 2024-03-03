@@ -8,4 +8,12 @@
 
 5. tail -5 access.log
 
-6. touch take-the-command-line-challenge
+6. touch take-the-command-challenge
+
+7. cp take-the-command-challenge tmp/files
+
+8. mv take-the-command-challenge tmp/files
+
+9. ln -s tmp/files/take-the-command-challenge take-the-command-challenge
+
+10. find -delete
