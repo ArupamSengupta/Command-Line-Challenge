@@ -17,3 +17,9 @@
 9. ln -s tmp/files/take-the-command-challenge take-the-command-challenge
 
 10. find -delete
+
+11. find . -name "*.doc" -delete
+
+12. grep GET access.log
+
+13. grep -l 500 *
